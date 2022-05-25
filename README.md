@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project Contains example of how to save data locally
+using sqflite in flutter.
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
